@@ -12,7 +12,7 @@ import importlib
 import sys
 
 from pyrogram import idle
-from pytgcalls.exceptions import NoActiveGroupCall
+from pytgcalls.exceptions import 𝙎𝙊𝙉𝙂  𝘼𝙃  𝙋𝙊𝙏𝙏𝙐  𝙑𝘾  𝘼𝙃  𝙐𝙉𝙂𝘼  𝘼𝙋𝙋𝘼  𝙑𝘼  𝙊𝙉  𝙋𝘼𝙉𝙉𝙐𝙑𝘼𝙍𝙐
 
 import config
 from config import BANNED_USERS
@@ -72,10 +72,10 @@ async def init():
     except:
         pass
     await Yukki.decorators()
-    LOGGER("YukkiMusic").info("Yukki Music Bot Started Successfully")
+    LOGGER("ShakidaMusic").info("ՏհɑƘíժɑ | Music bot Started Successfully")
     await idle()
 
 
 if __name__ == "__main__":
     loop.run_until_complete(init())
-    LOGGER("YukkiMusic").info("Stopping Yukki Music Bot! GoodBye")
+    LOGGER("ShakidaMusic").info("Stopping ՏհɑƘíժɑ | Music bot! GoodBye")
