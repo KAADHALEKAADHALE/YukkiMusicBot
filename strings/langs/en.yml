@@ -6,7 +6,7 @@ general_2 : "Error! Wrong Usage of Command."
 general_3 : "Some **exception occured** while processing your query.\n\nException Type:- {0}"
 general_4 : "You're an anonymous admin in this chat group!\nRevert back to User Account From Admin Rights."
 general_5 : "You need to be admin with manage voice chat rights to perform this action."
-general_6 : "Bot isn't streaming on voice chat."
+general_6 : "ՏհɑƘíժɑ isn't streaming on voice chat."
 
 # Classes - Telegram.py
 tg_1 : "Bot is **overloaded** with downloads right now.\n\n**Try After:** {0} (__expected time__)"
@@ -142,8 +142,8 @@ cplay_5 : "Only Channels are supported."
 cplay_6 : "You need to be the **Owner** of the channel[{0}] to connect it with this group.\n**Channel's Owner:** @{1}\n\nAlternatively you can link your group to that channel and then try connnecting with `/channelplay linked`"
 
 #Play
-play_1 : "🔄 Processing Query... Please Wait!"
-play_2 : "**🏷Channel Play Mode**\n\n🔄 Processing Query... Please Wait!\n**Linked Channel:** {0}"
+play_1 : "🔄 𝙎𝙊𝙉𝙂  𝘼𝙃  𝙆𝙀𝙏𝙏𝙐  𝙀𝙉𝙅𝙊𝙔  𝙋𝘼𝙉𝙉𝙐𝙉𝙂𝘼  𝙈𝘼𝙆𝙆𝘼𝙇𝙀"
+play_2 : "**🏷Channel Play Mode**\n\n🔄 𝙎𝙊𝙉𝙂  𝘼𝙃  𝙆𝙀𝙏𝙏𝙐  𝙀𝙉𝙅𝙊𝙔  𝙋𝘼𝙉𝙉𝙐𝙉𝙂𝘼  𝙈𝘼𝙆𝙆𝘼𝙇𝙀\n**Linked Channel:** {0}"
 play_3 : "Failed to Process Query!"
 play_4 : "🖇 **Admins Only Play**\nOnly Admins and Auth Users can play music in this group.\n\nChange mode via /playmode and if you're already admin, reload admincache via /admincache"
 play_5 : "Failed to process audio file.\n\nAudio File Size Should Be Less Than 100 mb"
